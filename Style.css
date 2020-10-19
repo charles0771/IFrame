@@ -1,0 +1,7 @@
+* { margin: 0px; padding: 0px; background-color: #fff;}
+
+#big-container{ height: 100px;}
+#mid-container{height: 100px;}
+#sm-container{height: 100px;}
+
+#cl-container{ display: list-item;}

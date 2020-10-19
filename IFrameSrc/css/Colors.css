@@ -1,0 +1,86 @@
+/*Background colors*/
+
+
+.bg-bc-1{ background-color: rgb(66, 66, 66); } /*Black*/
+.bg-bc-2{ background-color: rgb(32, 32, 32); } 
+.bg-bc-3{ background-color: rgb(0, 0, 0); }
+
+.bg-br-1{ background-color: rgb(54, 34, 6); } /*Brown*/
+.bg-br-2{ background-color: rgb(51, 42, 32); }
+.bg-br-3{ background-color: rgb(31, 25, 20); }
+
+.bg-bl-1{ background-color: rgb(8, 192, 248); } /*Blue*/
+.bg-bl-2{ background-color: rgb(2, 91, 173); }
+.bg-bl-3{ background-color: rgb(0, 39, 75); }
+
+.bg-gr-1{ background-color: rgb(228, 228, 228); } /*Gray*/
+.bg-gr-2{ background-color: rgb(131, 131, 131); }
+.bg-gr-3{ background-color: rgb(80, 80, 80); }
+
+.bg-ge-1{ background-color: rgb(48, 255, 6); } /*Green*/
+.bg-ge-2{ background-color: rgb(44, 153, 1); }
+.bg-ge-3{ background-color: rgb(7, 82, 0); }
+
+.bg-rd-1{ background-color: rgb(255, 6, 6); } /*Red*/
+.bg-rd-2{ background-color: rgb(158, 0, 0); }
+.bg-rd-3{ background-color: rgb(71, 0, 0); }
+
+.bg-or-1{ background-color: rgb(255, 135, 22); } /*Orange*/
+.bg-or-2{ background-color: rgb(151, 86, 0); }
+.bg-or-3{ background-color: rgb(112, 55, 1); }
+
+.bg-pp-1{background-color: rgb(119, 4, 250); } /*Purple*/
+.bg-pp-2{background-color: rgb(71, 0, 163); }
+.bg-pp-3{background-color: rgb(49, 0, 82); }
+
+.bg-pk-1{background-color: rgb(250, 4, 168); } /*Pink*/
+.bg-pk-2{background-color: rgb(163, 0, 128); }
+.bg-pk-3{background-color: rgb(82, 0, 64); }
+
+.bg-yl-1{ background-color: rgb(255, 238, 6); } /*Yellow*/
+.bg-yl-2{ background-color: rgb(179, 167, 4); }
+.bg-yl-3{ background-color: rgb(63, 59, 1); }
+
+
+/*Colors*/
+
+
+.cl-bc-1{ color: rgb(66, 66, 66); } /*Black*/
+.cl-bc-2{ color: rgb(32, 32, 32); }
+.cl-bc-3{ color: rgb(0, 0, 0); }
+
+.cl-br-1{ color: rgb(54, 34, 6); } /*Brown*/
+.cl-br-2{ color: rgb(51, 42, 32); }
+.cl-br-3{ color: rgb(31, 25, 20); }
+
+.cl-bl-1{ color: rgb(8, 192, 248); } /*Blue*/
+.cl-bl-2{ color: rgb(2, 91, 173); }
+.cl-bl-3{ color: rgb(0, 39, 75); }
+
+.cl-gr-1{ color: rgb(228, 228, 228); } /*Gray*/
+.cl-gr-2{ color: rgb(131, 131, 131); }
+.cl-gr-3{ color: rgb(80, 80, 80); }
+
+.cl-ge-1{ color: rgb(48, 255, 6); } /*Green*/
+.cl-ge-2{ color: rgb(44, 153, 1); }
+.cl-ge-3{ color: rgb(7, 82, 0); }
+
+.cl-rd-1{ color: rgb(255, 6, 6); } /*Red*/
+.cl-rd-2{ color: rgb(158, 0, 0); }
+.cl-rd-3{ color: rgb(71, 0, 0); }
+
+.cl-or-1{ color: rgb(255, 135, 22); } /*Orange*/
+.cl-or-2{ color: rgb(151, 86, 0); }
+.cl-or-3{ color: rgb(112, 55, 1); }
+
+.cl-pp-1{ color: rgb(119, 4, 250); } /*Purple*/
+.cl-pp-2{ color: rgb(71, 0, 163); }
+.cl-pp-3{ color: rgb(49, 0, 82); }
+
+.cl-pk-1{ color: rgb(250, 4, 168); } /*Pink*/
+.cl-pk-2{ color: rgb(163, 0, 128); }
+.cl-pk-3{ color: rgb(82, 0, 64); }
+
+.cl-yl-1{ color: rgb(255, 238, 6); } /*Yellow*/
+.cl-yl-2{ color: rgb(179, 167, 4); }
+.cl-yl-3{ color: rgb(63, 59, 1); }
