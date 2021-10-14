@@ -10,9 +10,9 @@
 
 EN-US
 
-        IFrame is an open-source project that aims to create a simple 
-    framework for faster web page creation. Can also be used with 
-    other framewroks.
+        IFrame is an open-source project that aims to create a 
+        simple framework for quick creation of web pages. 
+        It can also be used with other frameworks.
 
 
     Note: 
@@ -36,8 +36,8 @@ EN-US
 PT-BR
 
             IFrame é um projeto open-source que tem como objetivo criar um 
-        framework para simples para criação mias rápidas de páginas web. 
-        Podendo também ser usado com outros framewroks. 
+        framework simples para criação rápida de páginas web. 
+        Podendo também ser usado com outros frameworks. 
 
 
     Observação: 
