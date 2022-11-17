@@ -1,7 +1,7 @@
 ##====================================================================##
 ##                                                                    ##
 ## SOFTWARE: IFrame.                                                  ##
-## AUTHOR: Charles Dantas (chameleon)                                 ##
+## AUTHOR: Charles Dantas (ccod)                                 ##
 ## VERSION: 1.1                                                       ##
 ## CREATION DATE: 06/01/2020                                          ##
 ## RELEASE DATE: 13/05/2020                                           ##                  
